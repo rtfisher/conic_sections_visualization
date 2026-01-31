@@ -23,6 +23,6 @@ htmlcov/
 .DS_Store
 Thumbs.db
 
-# Matplotlib
-*.png
+# Matplotlib (except demo image)
 *.gif
+!conic_sections_demo.png

@@ -2,6 +2,8 @@
 
 [![Tests](https://github.com/rtfisher/conic_sections_visualization/actions/workflows/tests.yml/badge.svg)](https://github.com/rtfisher/conic_sections_visualization/actions/workflows/tests.yml)
 
+![Conic Sections Demo](conic_sections_demo.png)
+
 An interactive educational tool demonstrating how conic sections (circles, ellipses, parabolas, and hyperbolas) arise as cross-sections of a double cone.
 
 ## Overview
