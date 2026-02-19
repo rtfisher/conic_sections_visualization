@@ -45,7 +45,7 @@ The type of conic section depends on the plane's tilt angle relative to the cone
 
 ## Course Context
 
-Developed for PHY 252: Intermediate Astrophysics to illustrate orbital mechanics, where different conic sections correspond to different orbital types based on total energy.
+Developed for beginning astronomy students to illustrate orbital mechanics, where different conic sections correspond to different orbital types based on total energy.
 
 ## Author
 
